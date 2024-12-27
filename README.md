@@ -1,2 +1,2 @@
 # rssagg
-simple rssagg go server
+simple go based rss aggregator server
